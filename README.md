@@ -1,6 +1,9 @@
 # Infinity X Fleur Releases
+
 **Before you install the ROM**
+
 **Please NOTE that I am new in custom rom development and might not provide excellent support for the ROM**
+
 **If you encounter any issue please open github issue!**
 
 ## Features
