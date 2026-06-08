@@ -52,8 +52,8 @@ Before installing please remember that:
     - When in recovery press the Factory Reset button then press format data twice
     - Press apply update button and Apply from ADB
     - Run this command in CMD:
-    - adb sideload <ROM NAME>.zip
-    - Make sure that you replace <ROM NAME> with the real name of ROM zip file
+    - adb sideload "ROM NAME".zip
+    - Make sure that you replace "ROM NAME" with the real name of ROM zip file
     - Press the reboot to system button
  6. Enjoy!
 
@@ -64,6 +64,9 @@ Before installing please remember that:
  4. Enjoy!
 
 ## Passing Play Integrity
+### NEW METHOD ( INFINITY X 3.11 and up )
+ [![Watch the video](https://raw.githubusercontent.com/StasGr12/Infinity-X-Fleur/main/assets/Play_Integrity_Fix_(NEW).png)](https://raw.githubusercontent.com/StasGr12/Infinity-X-Fleur/main/assets/Play_Integrity_Fix_(NEW).mp4)
+### LEGACY METHOD ( INFINITY X 3.10 )
  1. Download and install [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
  2. Disable conflicting fixes:
     - Open settings
