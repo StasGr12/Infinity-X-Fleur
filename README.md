@@ -64,14 +64,15 @@ Before installing please remember that:
  4. Enjoy!
 
 ## Passing Play Integrity
-### NEW METHOD ( INFINITY X 3.11 and up )
+### NEW METHOD ( INFINITY X 3.11 & UP )
  Watch this tutorial:
  [![Play Integrity Fix(NEW)](https://img.youtube.com/vi/m9mnRC1F6B8/0.jpg)](https://www.youtube.com/watch?v=m9mnRC1F6B8)
-### LEGACY METHOD ( INFINITY X 3.10 )
+### LEGACY METHOD ( INFINITY X 3.10 & GPAY USERS)
  1. Download and install [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
  2. Disable conflicting fixes:
     - Open settings
-    - Go to Infinity Suite -> Miscellaneous -> Spoofing
+    - For Infinity X 3.10: Go to Infinity Suite -> Miscellaneous -> Spoofing
+    - For Infinity X 3.11: Go to Infinity Suite -> Miscellaneous -> Spoofing -> Play Integrity Fix
     - Disable Play Integrity Fix
  3. Download these modules:
     - [NeoZygisk](https://github.com/JingMatrix/NeoZygisk/releases)
@@ -91,6 +92,16 @@ Before installing please remember that:
     - Exit the WEB UI
  6. Press the action button
  7. Enjoy!
+
+## GPAY Fix
+ 1. Use LEGACY method to Fix Play Integrity
+ 2. Install Google Wallet App
+ 3. Add Google Wallet to Targets:
+   - Open WEBUI of Integrity Box
+   - Go to: Toolkit -> Manage Targets
+   - Click slider next to Google Wallet App
+ 4. Press the action button
+ 5. Enjoy!
 
 ## Device specifications
 
