@@ -65,7 +65,8 @@ Before installing please remember that:
 
 ## Passing Play Integrity
 ### NEW METHOD ( INFINITY X 3.11 and up )
- [![Watch the video](https://raw.githubusercontent.com/StasGr12/Infinity-X-Fleur/main/assets/Play_Integrity_Fix_(NEW).png)](https://raw.githubusercontent.com/StasGr12/Infinity-X-Fleur/main/assets/Play_Integrity_Fix_(NEW).mp4)
+ Watch this tutorial:
+ [![Play Integrity Fix(NEW)](https://img.youtube.com/vi/m9mnRC1F6B8/0.jpg)](https://www.youtube.com/watch?v=m9mnRC1F6B8)
 ### LEGACY METHOD ( INFINITY X 3.10 )
  1. Download and install [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
  2. Disable conflicting fixes:
