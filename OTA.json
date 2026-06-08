@@ -1,13 +1,12 @@
 {
-  "response": [
-    {
-      "datetime": 1780920734,
-      "filename": "Project_Infinity-X-3.11-fleur-08.06.2026-GAPPS-UNOFFICIAL.zip",
-      "id": "a70f415e426e5098df1717a239ad3ff255335f9cef041d4a45c9f5d126ec732a",
-      "romtype": "unofficial",
-      "size": 1723380117,
-      "url": "https://github.com/StasGr12/Infinity-X-Fleur/releases/download/v3.11/Project_Infinity-X-3.11-fleur-08.06.2026-GAPPS-UNOFFICIAL.zip",
-      "version": "3.11"
-    }
-  ]
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.11-fleur-08.06.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://github.com/StasGr12/Infinity-X-Fleur/releases/download/v3.11/Project_Infinity-X-3.11-fleur-08.06.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1780920734,
+			"md5": "ba24ae5e2810dbfd5bf1f153db8ee460",
+			"size": 1723380117,
+			"version": "3.11"
+		}
+	]
 }
