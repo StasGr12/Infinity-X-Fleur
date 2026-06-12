@@ -97,9 +97,9 @@ Before installing please remember that:
  1. Use LEGACY method to Fix Play Integrity
  2. Install Google Wallet App
  3. Add Google Wallet to Targets:
-   - Open WEBUI of Integrity Box
-   - Go to: Toolkit -> Manage Targets
-   - Click slider next to Google Wallet App
+    - Open WEBUI of Integrity Box
+    - Go to: Toolkit -> Manage Targets
+    - Click slider next to Google Wallet App
  4. Press the action button
  5. Enjoy!
 
