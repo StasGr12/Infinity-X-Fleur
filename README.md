@@ -9,10 +9,12 @@
 ## Features
 - Kernel SU Next 3.2.0
 - Viper4FX RE
+- MIUI Camera
+- VoLTE Support
 - Online OTA
 
 ## TO DO List
-- MIUI Camera
+Empty
 
 ## Device Sources
 | Type  | Source | Revision |
