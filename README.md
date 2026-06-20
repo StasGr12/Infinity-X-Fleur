@@ -96,7 +96,7 @@ Before installing please remember that:
  7. Enjoy!
 
 ## GPAY Fix
- 1. Use LEGACY method to Fix Play Integrity
+ 1. Use [LEGACY](https://github.com/StasGr12/Infinity-X-Fleur/tree/main#legacy-method--infinity-x-310--gpay-users) method to Fix Play Integrity
  2. Install Google Wallet App
  3. Add Google Wallet to Targets:
     - Open WEBUI of Integrity Box
