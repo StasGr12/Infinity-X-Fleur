@@ -19,9 +19,6 @@ A description of what you expected to happen.
 **Screenshots**
 Add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
-
 **Smartphone (please complete the following information):**
  - Infinity X version : [e.g. Infinity X 3.10]
 
