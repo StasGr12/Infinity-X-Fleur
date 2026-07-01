@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help me improve Project Infinity X for FLEUR / MIEL
 title: ''
-labels: ''
+labels: 'BUG'
 assignees: ''
 
 ---
@@ -19,9 +19,9 @@ A description of what you expected to happen.
 **Screenshots**
 Add screenshots to help explain your problem.
 
-**Smartphone (please complete the following information):**
+**Smartphone:**
  - Infinity X version : [e.g. Infinity X 3.10]
  - Phone Codename : FLEUR / MIEL
 
-**Additional context**
+**Additional context ( Optional )**
 Add any other context about the problem here.
