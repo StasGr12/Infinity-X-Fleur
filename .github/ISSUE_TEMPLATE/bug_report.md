@@ -21,6 +21,7 @@ Add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Infinity X version : [e.g. Infinity X 3.10]
+ - Phone Codename : FLEUR / MIEL
 
 **Additional context**
 Add any other context about the problem here.
