@@ -1,3 +1,2 @@
-- Added MIUI Camera by Default
-  IF YOU PREVIOSLY FLASHED MIUI CAMERA PLEASE REMOVE IT BEFORE THE UPDATE
-- ONLINE OTA works
+- Added Droidspaces support
+- Included MTK GED Patch
