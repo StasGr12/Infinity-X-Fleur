@@ -27,9 +27,9 @@ Empty
 ## Flashing Instuctions
 Before installing please remember that:
 
-[!WARNING]
-**YOU are choosing to make these modifications and**
-**I am not responsible for bricked devices or dead SD cards**
+> [!WARNING]
+> **YOU are choosing to make these modifications and**
+> **I am not responsible for bricked devices or dead SD cards**
 
 ### Prequirements:
 - Unlocked Bootloader
