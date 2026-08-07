@@ -1,2 +1,4 @@
-- Added Droidspaces support
-- Included MTK GED Patch
+- Added Full Mountify and Wireguard Kernel Support
+- Updated Kernel SU Next to version 3.3.0
+- Added SUSFS 2.2.0
+- Updated Project Infinity Source
