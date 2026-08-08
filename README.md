@@ -17,11 +17,11 @@
 Empty
 
 ## Device Sources
-| Type  | Source | Revision |
+| Type  | Source | Branch |
 |----|----|----|
 | Device | [mt6781-devs/android_device_xiaomi_fleur](https://github.com/mt6781-devs/android_device_xiaomi_fleur) | lineage-23.2 |
 | Vendor | [z3rh0/proprietary_vendor_xiaomi_fleur](https://github.com/z3rh0/proprietary_vendor_xiaomi_fleur) | lineage-23.2 |
-| Kernel | [mt6781-devs/android_kernel_xiaomi_mt6781](https://github.com/mt6781-devs/android_kernel_xiaomi_mt6781) | lineage-23.2 |
+| Kernel | [StasGr12/android_kernel_xiaomi_mt6781](https://github.com/StasGr12/android_kernel_xiaomi_mt6781) | lineage-23.2-ksun-susfs |
 
 # Instructions:
 ## Flashing Instuctions
