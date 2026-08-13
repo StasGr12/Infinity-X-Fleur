@@ -78,7 +78,7 @@ Before installing please remember that:
     - For Infinity X 3.11: Go to Infinity Suite -> Miscellaneous -> Spoofing -> Play Integrity Fix
     - Disable Play Integrity Fix
  3. Download these modules:
-    - [NeoZygisk](https://github.com/JingMatrix/NeoZygisk/releases)
+    - [BreZygisk](https://github.com/rrr333nnn333/BreZygisk/releases)
     - [TEESimulator](https://github.com/JingMatrix/TEESimulator/releases)
     - [IntegrityBox](https://github.com/MeowDump/Integrity-Box/releases)
  4. Install modules you just downloaded:
