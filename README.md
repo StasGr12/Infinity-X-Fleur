@@ -7,7 +7,8 @@
 **If you encounter any issue please open github issue!**
 
 ## Features
-- Kernel SU Next 3.2.0
+- Kernel SU Next 3.3.0
+- SUSFS 2.2.0
 - Viper4FX RE
 - MIUI Camera
 - VoLTE Support
