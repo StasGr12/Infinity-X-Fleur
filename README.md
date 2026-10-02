@@ -46,9 +46,8 @@ Before installing please remember that:
     - Plug your phone to your PC via USB and run fastboot devices in the CMD
       - If it shows a device your good to go
     - Flash the boot.img
-      - Run this commands in CMD:
-      - fastboot flash boot_a boot.img
-      - fastboot flash boot_b boot.img
+      - Run this command in CMD:
+      - fastboot flash --slot=all boot boot.img
     - Reboot to recovery
       - Run this command in CMD:
       - fastboot reboot recovery
