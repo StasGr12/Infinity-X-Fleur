@@ -47,7 +47,9 @@ Before installing please remember that:
       - If it shows a device your good to go
     - Flash the boot.img
       - Run this command in CMD:
-      - fastboot flash --slot=all boot boot.img
+          ```bash
+          fastboot flash --slot=all boot boot.img
+          ```
     - Reboot to recovery
       - Run this command in CMD:
       - fastboot reboot recovery
@@ -55,7 +57,9 @@ Before installing please remember that:
     - When in recovery press the Factory Reset button then press format data twice
     - Press apply update button and Apply from ADB
     - Run this command in CMD:
-    - adb sideload "ROM NAME".zip
+      ```bash
+      adb sideload "ROM NAME".zip
+      ```
     - Make sure that you replace "ROM NAME" with the real name of ROM zip file
     - Press the reboot to system button
  6. Enjoy!
@@ -78,9 +82,9 @@ Before installing please remember that:
     - For Infinity X 3.11: Go to Infinity Suite -> Miscellaneous -> Spoofing -> Play Integrity Fix
     - Disable Play Integrity Fix
  3. Download these modules:
-    - [BreZygisk](https://github.com/rrr333nnn333/BreZygisk/releases)
+    - [Zygisk Next](https://github.com/LSPosed/ZygiskNext/releases)
     - [TEESimulator](https://github.com/JingMatrix/TEESimulator/releases)
-    - [IntegrityBox](https://github.com/MeowDump/Integrity-Box/releases)
+    - [Integrity Box](https://github.com/MeowDump/Integrity-Box/releases)
  4. Install modules you just downloaded:
     - Open KernelSU NEXT Manager.
     - Go to the Modules tab.
