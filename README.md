@@ -110,6 +110,42 @@ Before installing please remember that:
  4. Press the action button
  5. Enjoy!
 
+## VoLTE Fix ( Project Infinity X v4.0 and UP )
+1.Check your carrier ID
+```bash
+adb shell dumpsys isub | grep -o 'carrierId=[0-9]*' | head -1
+```
+2.Clone this repo
+```bash
+https://github.com/AlomX/LineageOS-23-Redmi-Note-11S-fleur-VoLTE-Fix
+```
+3. Inside the folder run 
+```bash
+adb pull /system_ext/priv-app/CarrierConfig/CarrierConfig.apk tools/
+```
+
+4. Go inside tools/ folder
+```bash
+cd tools
+```
+5. Build carrierconfig
+```bash
+python build_carrierconfig.py --carrier-id {carrier_id_without_braces}
+```
+
+6. Build flashable module
+```bash
+python build_cc_module.py
+```
+
+7. Copy the module from tools/ folder to your phone
+
+8. Flash the module in your root menager( For example: BakaSU, Magisk ) alongside meta module (For example: [meta magic mount rs](https://github.com/Tools-cx-app/meta-magic_mount-rs), [mountify](https://github.com/backslashxx/mountify)(RECOMMENDED))
+
+9. Reboot your phone and check if VoLTE is available in sim settings.
+
+10. Enjoy!
+
 ## Device specifications
 
 |                   Basic | Spec Sheet                                                         |
