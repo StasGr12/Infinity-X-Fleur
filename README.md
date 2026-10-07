@@ -111,11 +111,11 @@ Before installing please remember that:
  5. Enjoy!
 
 ## VoLTE Fix ( Project Infinity X v4.0 and UP )
-1.Check your carrier ID
+1. Check your carrier ID
 ```bash
 adb shell dumpsys isub | grep -o 'carrierId=[0-9]*' | head -1
 ```
-2.Clone this repo
+2. Clone this repo
 ```bash
 https://github.com/AlomX/LineageOS-23-Redmi-Note-11S-fleur-VoLTE-Fix
 ```
