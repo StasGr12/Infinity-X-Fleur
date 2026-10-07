@@ -1,12 +1,12 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.12-fleur-15.08.2026-GAPPS-UNOFFICIAL.zip",
-			"download": "https://github.com/StasGr12/Infinity-X-Fleur/releases/download/v3.12-v3/Project_Infinity-X-3.12-fleur-15.08.2026-GAPPS-UNOFFICIAL.zip",
-			"timestamp": 1786814723,
-			"md5": "14c2cde1321b3b0e95ff41e36b1984c3",
-			"size": 1863112066,
-			"version": "3.12"
+			"filename": "Project_Infinity-X-4.0-fleur-07.10.2026-GAPPS-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/stasgr12-builds/files/fleur/17/Project%20Infinity%20X/v4.0/Project_Infinity-X-4.0-fleur-07.10.2026-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1791381948,
+			"md5": "d3f60540fe258e7c4580734b38b93cb2",
+			"size": 2361606110,
+			"version": "4.0"
 		}
 	]
 }
