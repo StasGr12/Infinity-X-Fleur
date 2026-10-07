@@ -1,1 +1,8 @@
+⚠️Warning⚠️
+If you are updating from 3.12 to 4.0 there might be some issues I don't know about. Clean flash is Recommended
+
+- Initial Android 17 Release
 - Updated Project Infinity Source
+- Changed Kernel to Fleux v4
+- Updated to BakaSU-rc3
+- Updated SUSFS to 2.3.0
