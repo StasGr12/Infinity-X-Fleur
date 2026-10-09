@@ -14,10 +14,8 @@
 - VoLTE Support
 - Online OTA
 
-## TO DO List
-Empty
-
 ## Device Sources
+### Project Infinity X v3.X
 | Type  | Source | Branch |
 |----|----|----|
 | Device | [mt6781-devs/android_device_xiaomi_fleur](https://github.com/mt6781-devs/android_device_xiaomi_fleur) | lineage-23.2 |
@@ -75,30 +73,32 @@ Before installing please remember that:
  Watch this tutorial:
  [![Play Integrity Fix(NEW)](https://img.youtube.com/vi/m9mnRC1F6B8/0.jpg)](https://www.youtube.com/watch?v=m9mnRC1F6B8)
 ### LEGACY METHOD ( INFINITY X 3.10 & GPAY USERS)
- 1. Download and install [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
- 2. Disable conflicting fixes:
+ 1. Download and install:
+    - For Project Infinity X v3.X [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
+    - For Project Infinity X v4.0 [BakaSU Menager](https://github.com/Baka-SU/BakaSU/releases)
+ 3. Disable conflicting fixes:
     - Open settings
     - For Infinity X 3.10: Go to Infinity Suite -> Miscellaneous -> Spoofing
-    - For Infinity X 3.11: Go to Infinity Suite -> Miscellaneous -> Spoofing -> Play Integrity Fix
+    - For Infinity X 3.11 & UP: Go to Infinity Suite -> Miscellaneous -> Spoofing -> Play Integrity Fix
     - Disable Play Integrity Fix
- 3. Download these modules:
+ 4. Download these modules:
     - [Zygisk Next](https://github.com/LSPosed/ZygiskNext/releases)
     - [TEESimulator](https://github.com/JingMatrix/TEESimulator/releases)
     - [Integrity Box](https://github.com/MeowDump/Integrity-Box/releases)
- 4. Install modules you just downloaded:
+ 5. Install modules you just downloaded:
     - Open KernelSU NEXT Manager.
     - Go to the Modules tab.
     - Tap +, select the ZIPs, and install.
     - Reboot your device!
- 5. Configuration of the Integrity Box module
+ 6. Configuration of the Integrity Box module
     - Open Kernel SU NEXT Menager
     - Go to modules
     - Enter WEB UI
     - Press Set Profile button under Miscellaneous section
     - Select Supreme Profile
     - Exit the WEB UI
- 6. Press the action button
- 7. Enjoy!
+ 7. Press the action button
+ 8. Enjoy!
 
 ## GPAY Fix
  1. Use [LEGACY](https://github.com/StasGr12/Infinity-X-Fleur/tree/main#legacy-method--infinity-x-310--gpay-users) method to Fix Play Integrity
