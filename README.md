@@ -30,6 +30,9 @@ Before installing please remember that:
 > **YOU are choosing to make these modifications and**
 > **I am not responsible for bricked devices or dead SD cards**
 
+> [!NOTE]
+> You can't use this rom with any other recovery than the one provided with the rom
+
 ### Prequirements:
 - Unlocked Bootloader
 ### Instructions:
