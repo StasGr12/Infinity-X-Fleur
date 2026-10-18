@@ -7,7 +7,7 @@
 **If you encounter any issue please open github issue!**
 
 ## Features
-- Kernel SU Next 3.3.0
+- BakaSU 2.3.0-rc3
 - SUSFS 2.2.0
 - Viper4FX RE
 - MIUI Camera
