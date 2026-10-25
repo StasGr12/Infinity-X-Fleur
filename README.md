@@ -77,8 +77,9 @@ Before installing please remember that:
  [![Play Integrity Fix(NEW)](https://img.youtube.com/vi/m9mnRC1F6B8/0.jpg)](https://www.youtube.com/watch?v=m9mnRC1F6B8)
 ### LEGACY METHOD ( INFINITY X 3.10 & GPAY USERS)
  1. Download and install:
-    - For Project Infinity X v3.X [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
+    - For Project Infinity X v3.x [Kernel SU Next Manager](https://github.com/KernelSU-Next/KernelSU-Next/releases)
     - For Project Infinity X v4.0 [BakaSU Menager](https://github.com/Baka-SU/BakaSU/releases)
+    - For Project Infinity X v4.1 [FleuxSU Menager](https://gitlab.com/daliboss/fleux-app/-/releases)
  3. Disable conflicting fixes:
     - Open settings
     - For Infinity X 3.10: Go to Infinity Suite -> Miscellaneous -> Spoofing
