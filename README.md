@@ -8,7 +8,7 @@
 
 ## Features
 - FleuxSU
-- SUSFS 2.2.0
+- SUSFS 2.3.0
 - Viper4FX RE
 - MIUI Camera
 - VoLTE Support
