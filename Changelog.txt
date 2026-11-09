@@ -5,5 +5,5 @@
 
 Notes:
 • If you use Integrity Box or any other magisk module that spoofs security patch date please disable it
-• If Fleux app wount work for you try disableing integrated susfs menager and restart the app
+• If Fleux app won't work for you try disableing integrated susfs menager and restart the app
 • If you use any module to fix 1080p@60fps video streaming you must remove it as it breaks any video quality streaming
