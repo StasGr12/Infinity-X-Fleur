@@ -1,4 +1,9 @@
-- Updated Project Infinity X source
-- Updated Fleux Kernel to v7
-- Updated Viper4FX App to Material 3 Fork ( https://github.com/likelikeslike/ViPER4Android )
-- Fixed Fast Charging
+• Updated Project Infinity X Source to v4.2
+• Fixed Viper4FX driver
+• Fixed 1080p @ 60 fps streaming
+• Updated Fleux kernel to v♾️
+
+Notes:
+• If you use Integrity Box or any other magisk module that spoofs security patch date please disable it
+• If Fleux app wount work for you try disableing integrated susfs menager and restart the app
+• If you use any module to fix 1080p@60fps video streaming you must remove it as it breaks any video quality streaming
