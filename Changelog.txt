@@ -1,9 +1,8 @@
-• Updated Project Infinity X Source to v4.2
-• Fixed Viper4FX driver
-• Fixed 1080p @ 60 fps streaming
-• Updated Fleux kernel to v♾️
+• Updated Project Infinity X Source
+• Applied SEPolicy Fixes by @mars300809 at Telegram
+• Fully Fixed Vibration Issues
+• Updated Fleux kernel to v11
 
 Notes:
 • If you use Integrity Box or any other magisk module that spoofs security patch date please disable it
 • If Fleux app won't work for you try disableing integrated susfs menager and restart the app
-• If you use any module to fix 1080p@60fps video streaming you must remove it as it breaks any video quality streaming
